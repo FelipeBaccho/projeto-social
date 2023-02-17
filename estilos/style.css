@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-ltt.png') no-repeat top center;
+    background: url('../imagens/fundo.png') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
